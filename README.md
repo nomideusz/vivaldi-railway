@@ -1,6 +1,6 @@
 # Deploy and Host Vivaldi (Cloud Browser) on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/vivaldi?utm_medium=integration&utm_source=button&utm_campaign=vivaldi)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/vivaldi-browser?utm_medium=integration&utm_source=button&utm_campaign=vivaldi-browser)
 
 This template runs a full desktop [Vivaldi](https://vivaldi.com/) browser in the cloud, streamed to any device through the [linuxserver.io](https://docs.linuxserver.io/images/docker-vivaldi/) Selkies web interface. Open your Railway domain, log in, and you're inside a real browser running on the server — bookmarks, extensions, downloads, and sessions persist between visits.
 
